@@ -1,0 +1,2 @@
+The pig is a cow.
+The cow is not a horse.
